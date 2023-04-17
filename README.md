@@ -8,7 +8,7 @@ Also note: I'll keep a list of academic papers in another document so that this 
 - FutureTools.io - Aggregator of new AI services and applications
 
 ## Image/Texture Generation
-[This is a title](https://www.example.com)
+- [This is a title](https://www.example.com)
 
 ## Video generation
 
@@ -32,7 +32,7 @@ Vicuna
 
 
 ## Audio Generation (Voice, music)
-
+- [Eleven Labs](http://www.elevenlabs.ai) - Voice generation and cloning cloud service - One of the better generators for Text to speech (TTS) with Cloud API
 
 ## Animation Generation
 
