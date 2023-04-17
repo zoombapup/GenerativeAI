@@ -32,7 +32,7 @@ Vicuna
 
 
 ## Audio Generation (Voice, music)
-- [Eleven Labs](http://www.elevenlabs.ai) - Voice generation and cloning cloud service - One of the better generators for Text to speech (TTS) with Cloud API
+- [Eleven Labs](http://www.elevenlabs.io) - Voice generation and cloning cloud service - One of the better generators for Text to speech (TTS) with Cloud API
 
 ## Animation Generation
 
